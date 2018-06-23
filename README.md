@@ -39,7 +39,7 @@ Please follow the following instructions to create and deploy your first google 
 
 10. use the fllowing code the clone the demo codes from github.
  #### git clone https://github.com/farshidrayhanuiu/cloud_computing.git
-![a](https://raw.githubusercontent.com/farshidrayhanuiu/cloud_computing/master/misc/7.PNG)
+![a](https://raw.githubusercontent.com/farshidrayhanuiu/cloud_computing/master/misc/27.PNG)
 
 11. go to that directory 
 ![a](https://raw.githubusercontent.com/farshidrayhanuiu/cloud_computing/master/misc/8.PNG)
