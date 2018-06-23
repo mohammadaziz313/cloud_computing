@@ -7,26 +7,80 @@ Please follow the following instructions to create and deploy your first google 
 
 2. Go to <a href="https://cloud.google.com">google cloud's website</a>
 3. Go to ![Console](https://raw.githubusercontent.com/farshidrayhanuiu/cloud_computing/master/1.PNG)
-4. Accept the license
+4. Accept the license 
+
+  
 ![aggreement](https://raw.githubusercontent.com/farshidrayhanuiu/cloud_computing/master/2.PNG)  
 5. Select project 
 ![a](https://raw.githubusercontent.com/farshidrayhanuiu/cloud_computing/master/3.PNG)
-6. Select New Project
-![a](https://raw.githubusercontent.com/farshidrayhanuiu/cloud_computing/master/4.PNG)
-7. Select a project name
+6. Select New Project    
 
-![a](https://raw.githubusercontent.com/farshidrayhanuiu/cloud_computing/master/5.PNG)
+  
+![a](https://raw.githubusercontent.com/farshidrayhanuiu/cloud_computing/master/4.PNG)  
 
-8. Select the project you just created
+7. Select a project name  
 
-9. Now you should have the dashboard. From there select the terminal (highlighted with a red circle) and and select "start cloud shell" 
+
+![a](https://raw.githubusercontent.com/farshidrayhanuiu/cloud_computing/master/5.PNG)  
+
+
+8. Select the project you just created  
+
+
+9. Now you should have the dashboard. From there select the terminal (highlighted with a red circle) and and select "start cloud shell"   
+
 
 ![a](https://raw.githubusercontent.com/farshidrayhanuiu/cloud_computing/master/6.PNG)
 
-9. use the fllowing code the clone the demo codes from github.
+10. use the fllowing code the clone the demo codes from github.
  git clone https://github.com/farshidrayhanuiu/cloud_computing.git
 ![a](https://raw.githubusercontent.com/farshidrayhanuiu/cloud_computing/master/7.PNG)
 
-10. go to that directory 
+11. go to that directory 
 ![a](https://raw.githubusercontent.com/farshidrayhanuiu/cloud_computing/master/8.PNG)
+
+12. Now we need to install the prerequisites. To do that type the following codes  
+#### pip install -t lib -r requirements.txt
+13. Then we need to initialize the enviourment with 
+#### gcloud init  
+
+
+
+
+
+14. Follow these instructions 
+
+  
+![a](https://raw.githubusercontent.com/farshidrayhanuiu/cloud_computing/master/14.PNG)
+![a](https://raw.githubusercontent.com/farshidrayhanuiu/cloud_computing/master/15.PNG)
+![a](https://raw.githubusercontent.com/farshidrayhanuiu/cloud_computing/master/16.PNG)
+
+
+15. Finally now we are going to deploy the app using the command
+#### gcloud app deploy
+
+16. and we are going to follow these instructions
+
+
+![a](https://raw.githubusercontent.com/farshidrayhanuiu/cloud_computing/master/9.PNG)
+![a](https://raw.githubusercontent.com/farshidrayhanuiu/cloud_computing/master/10.PNG)
+![a](https://raw.githubusercontent.com/farshidrayhanuiu/cloud_computing/master/11.PNG)
+![a](https://raw.githubusercontent.com/farshidrayhanuiu/cloud_computing/master/12.PNG)
+
+
+
+17. And we are done ! run the last command to deploy the app via a weblink
+#### gcloud app browse
+
+18. Clink on the link to see the webpage 
+  
+  
+![a](https://raw.githubusercontent.com/farshidrayhanuiu/cloud_computing/master/17.PNG)
+
+
+
+
+  
+
+
 
