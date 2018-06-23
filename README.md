@@ -11,8 +11,9 @@ Please follow the following instructions to create and deploy your first google 
 
   
 ![aggreement](https://raw.githubusercontent.com/farshidrayhanuiu/cloud_computing/master/2.PNG)  
-5. Select project 
-![a](https://raw.githubusercontent.com/farshidrayhanuiu/cloud_computing/master/3.PNG)
+5. Select project ![a](https://raw.githubusercontent.com/farshidrayhanuiu/cloud_computing/master/3.PNG)    <br/
+  
+  
 6. Select New Project    
 
   
@@ -24,7 +25,11 @@ Please follow the following instructions to create and deploy your first google 
 ![a](https://raw.githubusercontent.com/farshidrayhanuiu/cloud_computing/master/5.PNG)  
 
 
-8. Select the project you just created  
+8. Select the project you just created    
+
+![a](https://raw.githubusercontent.com/farshidrayhanuiu/cloud_computing/master/18.PNG)    
+
+
 
 
 9. Now you should have the dashboard. From there select the terminal (highlighted with a red circle) and and select "start cloud shell"   
