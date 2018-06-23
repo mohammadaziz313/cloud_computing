@@ -82,6 +82,9 @@ Please follow the following instructions to create and deploy your first google 
   
 ![a](https://raw.githubusercontent.com/farshidrayhanuiu/cloud_computing/master/17.PNG)
 
+19. Output
+![a](https://raw.githubusercontent.com/farshidrayhanuiu/cloud_computing/master/19.PNG)
+
 
 
 
