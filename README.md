@@ -30,7 +30,7 @@ Please follow the following instructions to create and deploy your first google 
 ![a](https://raw.githubusercontent.com/farshidrayhanuiu/cloud_computing/master/misc/18.PNG)    
 
 
-
+## Final steps
 
 9. Now you should have the dashboard. From there select the terminal (highlighted with a red circle) and and select "start cloud shell"   
 
