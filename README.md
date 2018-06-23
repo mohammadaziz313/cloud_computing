@@ -1,4 +1,4 @@
-# Cloud Computing
+# Simple steps to deploy app in Google Cloud 
 
 Please follow the following instructions to create and deploy your first google cloud application. 
 
@@ -67,7 +67,8 @@ Please follow the following instructions to create and deploy your first google 
 16. and we are going to follow these instructions
 
 
-![a](https://raw.githubusercontent.com/farshidrayhanuiu/cloud_computing/master/misc/9.PNG)
+![a](https://raw.githubusercontent.com/farshidrayhanuiu/cloud_computing/master/misc/9.PNG)  
+
 ![a](https://raw.githubusercontent.com/farshidrayhanuiu/cloud_computing/master/misc/10.PNG)
 ![a](https://raw.githubusercontent.com/farshidrayhanuiu/cloud_computing/master/misc/11.PNG)
 ![a](https://raw.githubusercontent.com/farshidrayhanuiu/cloud_computing/master/misc/12.PNG)
