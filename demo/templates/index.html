@@ -4,6 +4,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta charset="UTF=8">
 	<title>Could Computing</title>
+	<script type="text/javascript" src="{{ url_for('static',filename='custom.js') }}"></script>
 </head>
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap-theme.min.css">
@@ -11,10 +12,14 @@
 <script src="//netdna.bootstrapcdn.com/bootstrap/3.0.3/js/bootstrap.min.js"></script>
 <body>
 <div class="container">
-	<h1>Hello world</h1>
-
-
-
+	<h1>Main Page</h1>
+	<br>
+	<a href="map"><button>MAP</button></a>
+	<br>
+	<button onclick="showCa();">Show Me Cat</button>
+	<!--img src="{{url_for('static', filename='assests/images/cat_image.jpg')}}" height="200px" /-->
+	<!--img src="{{url_for("static", filename="assests/images/cat_image.jpg")}}" height="200px" /-->
+	<div id="imageView"></div>
 </div>
 </body>
 </html>

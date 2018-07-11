@@ -24,13 +24,14 @@ app = Flask(__name__)
 
 
 
-@app.route("/", methods=['GET'])
+@app.route("/", methods=['GET','POST'])
 def index():
     return render_template('index.html')
 
-@app.route("/map", methods=['GET', 'POST'])
+@app.route("/map", methods=['GET','POST'])
 def map():
     return render_template('map.html')
+
 
 
 if __name__ == '__main__':
